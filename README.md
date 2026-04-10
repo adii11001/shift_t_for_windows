@@ -37,7 +37,7 @@ Feel free to add your application of choice.
 10. Now download AutoHashKey Dash. Generate a ahk file with the following lines of code:
 ```
 +T::
-Run, C:\Users\adith\AppData\Local\Programs\Python\Python310\python.exe "C:\path\to\opener.py"
+Run, path_to_python.exe "path_to_opener.py"
 return
 ```
 
