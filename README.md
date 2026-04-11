@@ -1,6 +1,6 @@
-# 🔄 Shift+T for Windows
+# 🔄 Ctrl+Shift+T for Windows
 
-Shift+T restores the last session in chrome so does this program in windows.
+Ctrl+Shift+T restores the last session in chrome so does this program in windows.
 
 It restores previously running apps like:
 
