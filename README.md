@@ -30,7 +30,7 @@ Feel free to add your application of choice.
 3. Add name and description (optional)
 4. Trigger shall be "When I log on"
 5. Action "Start a program"
-6. Program/script: add python.exe; Add arguments: "path_to_extractor.py"
+6. Program/script: add pythonw.exe [To not open console window while executing]; Add arguments: "path_to_extractor.py"
 7. Search for the task in the task scheduler library right click, select properties.
 8. Go to the triggers pane and edit the trigger
 9. Check Repeat task every and set it to 5 minutes and for a duration of shall be indefinitely
@@ -45,4 +45,3 @@ Feel free to add your application of choice.
 
 
 Voila! You have setup Shift T for windows! Is it needed? no! Is it cool? Hell yeah! 
-If the command prompt appears out of nowhere chill it is the extractor in action. If it happens within the 5 mins time frame, say wallahi broo say wallahi!
