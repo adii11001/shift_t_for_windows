@@ -34,12 +34,7 @@ Feel free to add your application of choice.
 7. Search for the task in the task scheduler library right click, select properties.
 8. Go to the triggers pane and edit the trigger
 9. Check Repeat task every and set it to 5 minutes and for a duration of shall be indefinitely
-10. Now download AutoHashKey Dash. Generate a ahk file with the following lines of code:
-```
-+T::
-Run, path_to_python.exe "path_to_opener.py"
-return
-```
+10. Create a shortcut for the opener.py file. Open properties set shortcut key.
 
 ## How It Works
 
